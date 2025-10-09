@@ -1,0 +1,15 @@
+[submodule "darwin"]
+	path = darwin
+	url = git@github.com:declare-lab/darwin.git
+[submodule "DiffMS"]
+	path = DiffMS
+	url = git@github.com:coleygroup/DiffMS.git
+[submodule "matchms"]
+	path = matchms
+	url = git@github.com:matchms/matchms.git
+[submodule "ms-pred"]
+	path = ms-pred
+	url = git@github.com:coleygroup/ms-pred.git
+[submodule "Spec2Mol"]
+	path = Spec2Mol
+	url = git@github.com:KavrakiLab/Spec2Mol.git
